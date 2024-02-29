@@ -1,0 +1,6 @@
+@Npm_HostAddress = http://localhost:5078
+
+GET {{Npm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
